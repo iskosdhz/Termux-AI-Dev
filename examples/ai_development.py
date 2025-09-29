@@ -4,7 +4,7 @@ print("🤖 AI Development in Termux")
 print("===========================")
 
 def main():
-print("🚀 AI Tools Available:")
+print("🚀 AI Tools Available")
 print("1. Machine Learning - scikit-learn")
 print("2. Neural Networks - TensorFlow")
 print("3. Data Analysis - pandas")
